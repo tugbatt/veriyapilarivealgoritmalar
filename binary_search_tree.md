@@ -1,5 +1,5 @@
 ## Veri Yapıları ve Algoritmalar
-## *Binary Searc Tree Projesi*
+## *Binary Search Tree Projesi*
 - veri seti
 
 ```[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] ```
