@@ -1,5 +1,5 @@
 # Veri Yapıları ve Algoritmalar
-## *İnsertion Sort projesi*
+## *İnsertion Sort Projesi*
 - veri seti
 
 ```[22,27,16,2,18,6]```
