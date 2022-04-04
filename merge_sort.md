@@ -1,4 +1,4 @@
-#Veri Yapıları ve Algoritmalar
+# Veri Yapıları ve Algoritmalar
 ## *Merge Sort Projesi*
 - veri seti
 
